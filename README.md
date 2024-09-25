@@ -42,8 +42,7 @@
 | [Bandcamp](https://bandcamp.com/)                      | [Tent](https://forgejo.sny.sh/sun/Tent)                                                                                                                          |
 | [Tumblr](https://tumblr.com/)                          | [Priviblur](https://github.com/syeopite/priviblur)                                                                                                               |
 | [Soundcloud](https://www.ultimate-guitar.com/)         | [Tubo](https://github.com/migalmoreno/tubo)                                                                                                                      |
-| [Know Your Meme](https://knowyourmeme.com/)            | [MeMe](https://git.vern.cc/cobra/MeMe)                                                                                                                           |
-| [Instructables](https://www.instructables.com/)        | [Destructables](https://git.vern.cc/cobra/Destructables)                                                                                                         |
+| [Know Your MAMidhw](https://knowyourmeme.com/)            | [MeMe](https://git.vern.cc/cobra/MeMe)                                                                                                                           |
 | [Stack Exchange/ Overflow](https://stackexchange.com/) | [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow)                                                                                             |
 | [Twitch](https://www.twitch.tv/)                       | [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch)                                                                                                         |
 | [WolframAlpha](https://www.wolframalpha.com/)          | [Wolfree](https://codeberg.org/wolfree/wolfree-dockerfile)                                                                                                       |
@@ -53,3 +52,4 @@
 ## Attribution
 
 Icon modified from u-turn by Creative Stall from [Noun Project](https://thenounproject.com/browse/icons/term/u-turn/) (CC BY 3.0)
+wdkjdkjw
