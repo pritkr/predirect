@@ -57,6 +57,7 @@ let defaultCustomInstances = {
   snopesInstance: "",
   reutersInstance: "",
   stackoverflowInstance: "",
+  chatgptinstances: ""
 };
 const youtubeInstances = [
   "inv.n8pjl.ca",
@@ -291,6 +292,7 @@ const redditInstances = [
   "safereddit.com",
 ];
 const bandcampInstances = ["tent.sny.sh", "tent.bloat.cat", "tn.vern.cc"];
+const chatgptinstance = "gemini.google.com"
 const tumblrInstances = ["pb.bloat.cat", "tb.opnxng.com", "pb.exozy.me"];
 const soundcloudInstances = ["tubo.migalmoreno.com"];
 const udInstances = [
@@ -838,6 +840,7 @@ function updateRules(parameterRedirectServices, customInstances) {
     redirectRules.push(
       createRedirectRule(40, "reuters.com", randreutersInstance)
     );
+    
   }
   if (parameterRedirectServices.stackoverflow) {
     redirectRules.push(
@@ -857,6 +860,9 @@ function updateRules(parameterRedirectServices, customInstances) {
         },
       },
     });
+    redirectRules.push(
+      createRedirectRule(40, "chatgpt.com", chatgptinstance)
+    );
   }
   chrome.declarativeNetRequest.updateDynamicRules({
     removeRuleIds: [

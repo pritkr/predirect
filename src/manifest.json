@@ -50,6 +50,7 @@
     "*://*.stackexchange.com/*",
     "*://www.google.com/*",
     "*://translate.google.com/*",
-    "*://youtu.be/*"
+    "*://youtu.be/*",
+    "*://chatgpt.com/*"
   ]
 }

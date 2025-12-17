@@ -32,6 +32,7 @@ const permissionsToRequest = {
     "*://*.stackexchange.com/*",
     "*://www.google.com/*",
     "*://translate.google.com/*",
+    "*://chatgpt.com/*"
   ],
 };
 async function requestPermissions() {
