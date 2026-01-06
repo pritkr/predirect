@@ -71,7 +71,6 @@ const youtubeInstances = [
   "invidious.protokolla.fi",
   "invidious.slipfox.xyz",
   "iv.datura.network",
-  "iv.ggtyler.dev",
   "iv.melmac.space",
   "iv.nboeck.de",
   "vid.priv.au",
@@ -177,7 +176,6 @@ const geniusInstances = [
 const ytmusicInstances = [
   "beatbump.io",
   "bb.vern.cc",
-  "bb.ggtyler.dev",
   "hyperpipe.surge.sh",
   "hyperpipe.esmailelbob.xyz",
   "listen.whatever.social",
@@ -187,7 +185,6 @@ const ytmusicInstances = [
   "hyperpipe.frontendfriendly.xyz",
   "hyperpipe.drgns.space",
   "hyperpipe.projectsegfau.lt",
-  "hp.ggtyler.dev",
   "hyperpipe.lunar.icu",
 ];
 const goodreadsInstances = [
@@ -230,7 +227,6 @@ const twitchInstances = [
   "safetwitch.frontendfriendly.xyz",
   "ttv.femboy.band",
   "twitch.seitan-ayoub.lol",
-  "st.ggtyler.dev",
   "safetwitch.lunar.icu",
   "twitch.sudovanilla.com",
 ];
@@ -315,7 +311,6 @@ const searchInstances = [
 const translateInstances = [
   "mozhi.aryak.me",
   "translate.bus-hit.me",
-  "nyc1.mz.ggtyler.dev",
 ];
 const snopesInstances = ["sd.vern.cc", "suds.esmailelbob.xyz"];
 const reutersInstances = ["neuters.de"];
@@ -911,3 +906,4 @@ chrome.runtime.onInstalled.addListener((handleInstalled) => {
     });
   }
 });
+
